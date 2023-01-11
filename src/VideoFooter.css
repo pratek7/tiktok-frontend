@@ -21,6 +21,10 @@
 }
 .videoFooter__icon {
   position: absolute;
+
+}
+.song{
+  margin-left: 25px;
 }
 .videoFooter__ticker h1 {
   padding-top: 7px;
